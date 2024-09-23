@@ -1,0 +1,5 @@
+salary = int(input("Enter your salary: "))
+bonus = float(salary * 0.1)
+print ( "congratulations! you have a bonus of ", bonus)
+totalamount = float(salary + bonus)
+print ( "Your total salary for this year is ", totalamount)
